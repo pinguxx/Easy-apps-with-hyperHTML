@@ -1,1 +1,1 @@
-# Easy-apps-with-hyperHTML-
+# Easy apps with hyperHTML
